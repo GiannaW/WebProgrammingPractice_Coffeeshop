@@ -1,0 +1,214 @@
+#big_title{
+    text-align: center;
+    font-family: 'Playfair Display', serif;    
+}
+
+#big_title{
+
+    font-family: 'Dancing Script', cursive;
+    color:#672526;
+
+
+
+}
+body{
+    background-color:  #f2f2f2; 
+}
+
+.topnav{
+    background-color: #e96133;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    font-family: 'Josefin Sans', sans-serif;
+    color:white;
+
+
+
+
+}
+
+
+
+
+.topnav li{
+    display: inline-block;
+    color:white;
+}
+
+
+/* Navbar container */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+    text-align:center;
+    overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
+.logo{
+    float:left;
+    width: 75px;
+    height: 75px;
+
+
+
+
+}
+
+.logos{
+    float:right;
+    width:50px;
+    height: 50px;
+
+
+
+}
+
+p{
+
+    font-family: 'Josefin Sans', sans-serif;
+
+
+
+}
+
+
+
+#sub-footer {
+    display: flex;
+     background-color: #e96133;
+    
+    
+    
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+
+
+
+   
+
+}
+
+
+#sub-footer>div{
+      
+    
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+
+
+
+    margin: 10px;
+    
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    
+
+    
+    
+    
+    
+}
+
+#main-container{
+    margin: 50px;
+
+    padding: 20px;
+
+    align-content: center;
+
+
+
+    width:1200px;
+}
+
+.center{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width:1200px
+}
+
+footer{
+    clear: right;
+    margin: auto;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #672526;
+}
+
+
+
+
+section{
+    float: right;
+    color: #672526;
+}
